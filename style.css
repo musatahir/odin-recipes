@@ -1,0 +1,13 @@
+html {
+    font-family: 'Open Sans', sans-serif
+}
+
+h1 {
+    background-color: rgb(161, 231, 217);
+    font-weight: 800;
+    text-align: center;
+}
+
+a {
+    border: 1px solid green;
+}
